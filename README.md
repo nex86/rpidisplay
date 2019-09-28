@@ -2,9 +2,9 @@
 
 **Updated install script for Watterott display with Raspbian Buster compatiblity.**
 
-*Credits to awatterott and normanzb for the original script.*
+*Credits to awatterott and normanzb for the original script.*  
 
-https://raw.githubusercontent.com/nex86/rpidisplay/master/JPEG_20190928_144417.jpg
+![display](https://raw.githubusercontent.com/nex86/rpidisplay/master/JPEG_20190928_144417.jpg?raw=true "Title")
 
 **----Install instructions----**
 

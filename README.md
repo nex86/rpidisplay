@@ -1,4 +1,4 @@
-# rpidisplayhttps://github.com/nex86/rpidisplay/raw/master/rpi-display.sh
+# rpidisplay  https://github.com/nex86/rpidisplay/raw/master/rpi-display.sh
 Updated install script for Watterott display with Raspbian Buster compatiblity.
 
 *** Credits to awatterott and normanzb for the original script. ***

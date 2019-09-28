@@ -4,6 +4,8 @@
 
 *Credits to awatterott and normanzb for the original script.*
 
+https://raw.githubusercontent.com/nex86/rpidisplay/master/JPEG_20190928_144417.jpg
+
 **----Install instructions----**
 
 First, make sure you have your raspbian desktop set up for small screens in **Preferences -> Appearance Settings -> Defaults**  

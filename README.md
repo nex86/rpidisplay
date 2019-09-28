@@ -17,7 +17,7 @@ Exit the Raspbian Desktop to the Command Line, make sure the X-Server is termina
 
 **now type the following:**
 
-   cd ~  *just to make sure you do this in your user directory*  
+   cd ~  *just to make sure you do this in your home directory*  
    wget https://github.com/nex86/rpidisplay/raw/master/rpi-display.sh  
    chmod +x rpi-display.sh  
    sudo /bin/bash rpi-display.sh DEGREE  

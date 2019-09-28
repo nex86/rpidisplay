@@ -13,7 +13,7 @@ Since things are a little different on Buster I updated this script.
 First, make sure you have your raspbian desktop set up for small screens in **Preferences -> Appearance Settings -> Defaults**  
 Also change the Fontsize under the **System tab** to 6 or lower. This will give you more visable space on the screen.  
 I would recommend doing the setup of the screen over SSH while HDMI is unplugged.  
-Otherwise, exit the Raspbian Desktop to the Command Line, make sure the X-Server is terminated.  
+Exit the Raspbian Desktop to the Command Line, make sure the X-Server is terminated.  
 
 **now type the following:**
 

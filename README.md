@@ -22,7 +22,7 @@ Otherwise, exit the Raspbian Desktop to the Command Line, make sure the X-Server
 *(while DEGREE is the orientation in degrees (clockwise).)*  
 *available degrees are **0, 90, 180 and 270** Mine worked with 270 for landscape mode.*  
 
-After installation and calibration, reboot and start xorg normally.   
+After installation and calibration, reboot and start into X normally.   
 You will prompted again for another calibration. This is for X this time.
 
 

@@ -1,6 +1,8 @@
 # rpidisplay  https://github.com/nex86/rpidisplay/raw/master/rpi-display.sh
 
-**Updated install script for Watterott display with Raspbian Buster compatiblity.**
+**Updated install script for Watterott display with Raspbian Buster and Raspberry Pi 4 compatiblity.**
+
+Since things are a little different on Buster I updated this script.  
 
 *Credits to awatterott and normanzb for the original script.*  
 

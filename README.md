@@ -13,9 +13,10 @@ Otherwise, exit the Raspbian Desktop to the Command Line, make sure the X-Server
 
 **now type the following:**
 
-  wget https://github.com/nex86/rpidisplay/raw/master/rpi-display.sh  
-  chmod +x rpi-display.sh  
-  sudo /bin/bash rpi-display.sh DEGREE  
+   cd ~  *just to make sure you do this in your user directory*
+   wget https://github.com/nex86/rpidisplay/raw/master/rpi-display.sh  
+   chmod +x rpi-display.sh  
+   sudo /bin/bash rpi-display.sh DEGREE  
 *(while DEGREE is the orientation in degrees (clockwise).)*  
 *available degrees are **0, 90, 180 and 270** Mine worked with 270 for landscape mode.*  
 
